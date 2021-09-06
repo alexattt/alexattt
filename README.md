@@ -1,3 +1,7 @@
+<style>
+  body { font-size: 12px; }
+<style>
+
 <h2>Hello everyone! 👋<h2>
 
 <div>
@@ -6,7 +10,7 @@
     <li>Last year Robotics engineering student</li>
     <li>Currently working as a Jr. Software Dev</li>
     <li>Interested both in hardware and software</li>
-    <li>Besides programming I love Space, astronomy, photography</li>
+    <li>Besides programming I love astronomy, photography and nature</li>
   </ul>
 </div>
 
