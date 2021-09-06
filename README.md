@@ -17,7 +17,7 @@
 <div>
   <h3>💻Social media</h3>
   <ul>
-    <li><a href="https://www.linkedin.com/in/aleksandra-timofejeva/">LinkedIn</a></li>
-    <li><a href="alexat.space">Personal website</a></li>
+    <li><a href="https://www.linkedin.com/in/aleksandra-timofejeva/" target="_blank">LinkedIn</a></li>
+    <li><a href="alexat.space" target="_blank">Personal website</a></li>
   </ul>
 </div>
