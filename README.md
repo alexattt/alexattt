@@ -11,12 +11,11 @@
 </div>
 
 <div>
-  <p>I use GitHub mostly for learning purposes, as a great way to track my progress over time and save projects and study materials.<p>
   <h3>📁My repositories</h3>
 </div>
 
 <div>
   <h3>💻Social media</h3>
-  <a href="https://www.linkedin.com/in/aleksandra-timofejeva/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aleksandra-timofejeva/">LinkedIn</a> </br>
   <a href="alexat.space">Personal website</a>
 </div>
