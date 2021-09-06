@@ -1,8 +1,4 @@
-<style>
-  body { font-size: 12px; }
-<style>
-
-<h2>Hello everyone! 👋<h2>
+### Hello everyone!👋
 
 <div>
   <h3>👉About me</h3>
