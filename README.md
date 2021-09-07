@@ -6,7 +6,7 @@
     <li>Last year Robotics engineering student</li>
     <li>Currently working as a Jr. Software Dev</li>
     <li>Interested both in hardware and software</li>
-    <li>Besides programming I love astronomy, photography and nature :)</li>
+    <li>Besides programming I love astronomy, photography and nature ☺</li>
   </ul>
 </div>
 
