@@ -23,8 +23,8 @@
   <h3>📁My repositories</h3>
   <ul>
     My personal website repository.
-    Made it out of curiosity and for fun, to practice front-end skills. Probably will remake it in the future. :) 
-    <li><a hred="https://github.com/alexattt/MyPortfolio">Website repo</a></li>
+    Made it out of curiosity and for fun, to practice front-end skills. Probably will remake it in the future. 😊
+    <li><a href="https://github.com/alexattt/MyPortfolio" target="_blank">Website repo</a></li>
   </ul>
 </div>
 
