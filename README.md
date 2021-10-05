@@ -6,6 +6,13 @@
     <li>Last year Robotics engineering student</li>
     <li>Currently working as a Jr. Software Dev</li>
     <li>Interested both in hardware and software</li>
+    <ul>
+      <li>HTML, CSS (SASS), JavaScript, TypeScript, React, Node.js, Express.js, basics of testing with Jest and Cypress</li>
+      <li>C#, ASP.NET MVC, Entity Framework, MSTest</li>
+      <li>Java, Spring Framework</li>
+      <li>Python (pandas, matplotlib)</li>
+      <li>C, C++ mostly for microcontrollers, also Arduino</li>
+    </ul>
     <li>Besides programming I love astronomy, photography and nature ☺</li>
   </ul>
 </div>
