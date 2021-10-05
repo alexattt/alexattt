@@ -29,7 +29,7 @@
     Learning all the fun stuff with React, TS, Node, Express, Redux, GraphQL etc. A lot of practical tasks.
     <li><a href="https://github.com/alexattt/FullStackOpen2021" target="_blank">Full Stack Open repo</a></li>
     Map of Latvia, made it using Leaflet.js and a little bit of styling. 
-    <li href="https://github.com/alexattt/Map-project" target="_blank">Map Repo</li>
+    <li><a href="https://github.com/alexattt/Map-project" target="_blank">Map Repo</a></li>
   </ul>
 </div>
 
