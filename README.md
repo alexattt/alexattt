@@ -27,7 +27,7 @@
     <li><a href="https://github.com/alexattt/MyPortfolio" target="_blank">Website repo</a></li>
     Repository for Full Stack Open 2021 by University of Helsinki MOOC.</br>
     Learning all the fun stuff with React, TS, Node, Express, Redux, GraphQL etc. A lot of practical tasks.
-    <li><a href="https://github.com/alexattt/FullStackOpen2021"></a></li>
+    <li><a href="https://github.com/alexattt/FullStackOpen2021">Full Stack Open repo</a></li>
   </ul>
 </div>
 
