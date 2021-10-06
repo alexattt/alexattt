@@ -1,7 +1,7 @@
 ### Hello!👋😊
 
 <div>
-  <h3>👉About me</h3>
+  <h3>👩🏻‍💻About me</h3>
   <ul>
     <li>Last year Robotics engineering student</li>
     <li>Currently working as a Jr. Software Dev</li>
