@@ -26,7 +26,7 @@
     Made it out of curiosity and for fun, to practice front-end skills.</br>Probably will remake it in the future. 😊
     <li><a href="https://github.com/alexattt/MyPortfolio" target="_blank">Website repo</a></li>
     Repository for Full Stack Open 2021 by University of Helsinki MOOC.</br>
-    Learning all the fun stuff with React, TS, Node, Express, Redux, GraphQL etc. A lot of practical exercises.
+    Learning all the fun stuff with React, TS, MongoDB, Node, Express, Redux, GraphQL etc. A lot of practical exercises.
     <li><a href="https://github.com/alexattt/FullStackOpen2021" target="_blank">Full Stack Open repo</a></li>
     Map of Latvia, made it using Leaflet.js and a little bit of styling. 
     <li><a href="https://github.com/alexattt/Map-project" target="_blank">Map Repo</a></li>
