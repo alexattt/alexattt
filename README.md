@@ -15,7 +15,7 @@
       <li>C, C++ mostly for microcontrollers, also Arduino</li>
     </ul>
     <li>Willing to improve my full-stack skills with MERN stack, learn more about data science</li>
-    <li>Besides programming I love astronomy, photography and nature ☺</li>
+    <li>Besides programming I love astronomy, photography, reading and nature 😊</li>
   </ul>
 </div>
 
