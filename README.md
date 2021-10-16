@@ -7,7 +7,7 @@
     <li>Currently working as a Jr. Software Dev</li>
     <li>Interested both in hardware and software</li>
     <ul>
-      <li>HTML, CSS (SASS), JavaScript, TypeScript, React, Node.js, Express.js, basics of testing with Jest and Cypress</li>
+      <li>HTML, CSS (SASS), JavaScript, TypeScript, React, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
       <li>C#, ASP.NET MVC, Entity Framework, MSTest</li>
       <li>Java, Spring Framework, REST API</li>
       <li>PostgreSQL, MySQL, MongoDB</li>
