@@ -32,6 +32,8 @@
     <li><a href="https://github.com/alexattt/Map-project" target="_blank">Map Repo</a></li>
     Basic phonebook app, part of Full Stack Open 2021 MOOC exercises.
     <li><a href="https://github.com/alexattt/FullStack-part3" target="_blank">Phonebook app</a></li>
+    Autonomous vehicle project with .NET C# and Unity
+    <li><a href="https://github.com/alexattt/Autonomous-truck" target="_blank">Autonomous vehicle</a></li>
   </ul>
 </div>
 
