@@ -5,7 +5,7 @@
   <ul>
     <li>Last year Robotics engineering student</li>
     <li>Currently working as a Jr. Software Dev</li>
-    <li>Interested both in hardware and software</li>
+    <li>Some languages, libraries, frameworks I am familiar with</li>
     <ul>
       <li>HTML, CSS (SASS), JavaScript, TypeScript, React, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
       <li>C#, ASP.NET MVC, Entity Framework, MSTest</li>
