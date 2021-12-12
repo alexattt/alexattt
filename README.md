@@ -42,6 +42,6 @@
   <ul>
     <li><a href="https://www.linkedin.com/in/aleksandra-timofejeva/" target="_blank">LinkedIn</a></li>
     <li><a href="https://www.alexat.space/" target="_blank">Personal website</a></li>
-    <li>My <a href="https://www.frontendmentor.io/profile/alexattt">Frontendmentor</a>account where I am completing challenges and improving my front-end skills</li>
+    <li>My <a href="https://www.frontendmentor.io/profile/alexattt">Frontendmentor</a> account where I am completing challenges and improving my front-end skills</li>
   </ul>
 </div>
