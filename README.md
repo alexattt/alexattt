@@ -23,8 +23,7 @@
   <h3>📁My repositories</h3>
   <ul>
     My personal website repository.
-    Made it out of curiosity and for fun, to practice front-end skills.</br>Probably will remake it in the future. 😊
-    <li><a href="https://github.com/alexattt/MyPortfolio" target="_blank">Website repo</a></li>
+    <li><a href="https://github.com/alexattt/personal-website-2" target="_blank">Website repo</a></li>
     Repository for Full Stack Open 2021 by University of Helsinki MOOC.</br>
     Learning all the fun and useful stuff with React, MongoDB, Node, Express, Redux, GraphQL, TypeScript etc. A lot of practical exercises.
     <li><a href="https://github.com/alexattt/FullStackOpen2021" target="_blank">Full Stack Open repo</a></li>
