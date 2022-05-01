@@ -8,10 +8,10 @@
     <li>Some languages, libraries, frameworks I am familiar with</li>
     <ul>
       <li>HTML, CSS (SASS), JavaScript, TypeScript, React, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
-      <li>C#, ASP.NET MVC, Entity Framework, MSTest</li>
+      <li>C#, ASP.NET MVC, Blazor Server, Entity Framework, MSTest</li>
       <li>Java, Spring Framework, REST API</li>
-      <li>PostgreSQL, MySQL, MSSQL, MongoDB</li>
-      <li>Python (pandas, matplotlib)</li>
+      <li>PostgreSQL, MSSQL, MySQL, MongoDB</li>
+      <li>Python (pandas, matplotlib, Scikit-learn)</li>
       <li>C, C++ mostly for microcontrollers, also Arduino</li>
     </ul>
   </ul>
