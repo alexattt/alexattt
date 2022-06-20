@@ -3,7 +3,6 @@
 <div>
   <h3>👩🏻‍💻About me</h3>
   <ul>
-    <li>Last year Robotics engineering student</li>
     <li>Currently working as a Jr. Software Dev</li>
     <li>Some languages, libraries, frameworks I am familiar with</li>
     <ul>
