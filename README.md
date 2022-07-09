@@ -20,15 +20,20 @@
   <ul>
     My personal website repository.
     <li><a href="https://github.com/alexattt/personal-website-2" target="_blank">Website repo</a></li>
+    <br/>
     Repository for Full Stack Open 2021 by University of Helsinki MOOC.</br>
     Learning all the fun and useful stuff with React, MongoDB, Node, Express, Redux, GraphQL, TypeScript etc. A lot of practical exercises.
     <li><a href="https://github.com/alexattt/FullStackOpen2021" target="_blank">Full Stack Open repo</a></li>
+    <br/>
     Map of Latvia, made it using Leaflet.js and a little bit of styling. 
     <li><a href="https://github.com/alexattt/Map-project" target="_blank">Map Repo</a></li>
+    <br/>
     Basic phonebook app, part of Full Stack Open 2021 MOOC exercises.
     <li><a href="https://github.com/alexattt/FullStack-part3" target="_blank">Phonebook app</a></li>
+    <br/>
     Autonomous vehicle project with .NET C# and Unity
     <li><a href="https://github.com/alexattt/Autonomous-truck" target="_blank">Autonomous vehicle</a></li>
+    <br/>
     XML file parsing project. XML data are parsed to entities, saved to DB, then various statistics obtained from data are displayed
     <li><a href="https://github.com/alexattt/XmlParsingStats" target="_blank">XML parsing</a></li>
   </ul>
