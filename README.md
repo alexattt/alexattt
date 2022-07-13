@@ -34,8 +34,6 @@
     Autonomous vehicle project with .NET C# and Unity
     <li><a href="https://github.com/alexattt/Autonomous-truck" target="_blank">Autonomous vehicle</a></li>
     <br/>
-    XML file parsing project. XML data are parsed to entities, saved to DB, then various statistics obtained from data are displayed
-    <li><a href="https://github.com/alexattt/XmlParsingStats" target="_blank">XML parsing</a></li>
   </ul>
 </div>
 
