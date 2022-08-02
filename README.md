@@ -3,7 +3,7 @@
 <div>
   <h3>👩🏻‍💻About me</h3>
   <ul>
-    <li>Currently working as a Jr. Software Dev</li>
+    <li>Currently working as a Software Dev</li>
     <li>Some languages, libraries, frameworks I am familiar with</li>
     <ul>
       <li>HTML, CSS (SASS), JavaScript, TypeScript, React, Angular, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
@@ -33,6 +33,9 @@
     <br/>
     Autonomous vehicle project with .NET C# and Unity
     <li><a href="https://github.com/alexattt/Autonomous-truck" target="_blank">Autonomous vehicle</a></li>
+    <br/>
+    Reading XML files from folder, parsing and saving entities to DB, then in frontend stats gathered from data are calculated
+    <li><a href="https://github.com/alexattt/XmlStats" target="_blank">Xml Stats</a></li>
     <br/>
   </ul>
 </div>
