@@ -6,11 +6,14 @@
     <li>Currently working as a Software Dev</li>
     <li>Some languages, libraries, frameworks I am familiar with (used in projects at work or others)</li>
     <ul>
-      <li>HTML, CSS (SASS), JavaScript, jQuery, TypeScript, React, Angular, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
+      <li>JavaScript, TypeScript, React, Angular, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
+      <li>React Native</li>
       <li>C#, ASP.NET MVC, Blazor Server, Entity Framework, MSTest</li>
-      <li>Java, Spring Framework, REST API</li>
-      <li>PostgreSQL, MSSQL, MySQL, MongoDB</li>
-      <li>Python for data (pandas, matplotlib, Scikit-learn)</li>
+      <li>Azure (Azure functions, API management, Authentication and authorization)</li>
+      <li>Java, Spring Framework, Hibernate</li>
+      <li>PostgreSQL, MSSQL, MongoDB</li>
+      <li>Go</li>
+      <li>Python for data manipulation (pandas, matplotlib, Scikit-learn)</li>
     </ul>
   </ul>
 </div>
