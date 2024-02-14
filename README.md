@@ -11,9 +11,9 @@
       <li>C#, ASP.NET MVC, Blazor Server, Entity Framework, MSTest</li>
       <li>Azure (Azure functions, API management, Authentication and authorization)</li>
       <li>Java, Spring Framework, Hibernate</li>
-      <li>PostgreSQL, MSSQL, MongoDB</li>
+      <li>PostgreSQL, MySQL, MSSQL, MongoDB, Redis, Supabase</li>
       <li>Go</li>
-      <li>Python for data manipulation (pandas, matplotlib, Scikit-learn)</li>
+      <li>Python</li>
     </ul>
   </ul>
 </div>
