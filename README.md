@@ -9,7 +9,7 @@
       <li>JavaScript, TypeScript, React, Angular, Redux, Node.js, Express.js, basics of testing with Jest and Cypress</li>
       <li>React Native</li>
       <li>C#, ASP.NET MVC, Blazor Server, Entity Framework, MSTest</li>
-      <li>Azure (Azure functions, API management, Authentication and authorization)</li>
+      <li>Azure</li>
       <li>Java, Spring Framework, Hibernate</li>
       <li>PostgreSQL, MySQL, MSSQL, MongoDB, Redis, Supabase</li>
       <li>Go</li>
